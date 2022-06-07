@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import PhotoImage
-import threading, subprocess
+import threading,  subprocess
 
 tk = Tk()
 tk.title('Gesture Control')
